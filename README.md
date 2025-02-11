@@ -21,7 +21,7 @@ Note that if you want to install Pytorch on a GPU machine, you need to install C
 
 3. Install GMST
 
-git clone https://github.com/
+git clone https://github.com/wang999-sdu/GMST.git
 cd GMST/
 ----------------------------------------------------------------------------
 Datasets

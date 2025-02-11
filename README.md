@@ -4,6 +4,9 @@ GMST is a Python software package used for identifying spatial domains from spat
 
 GMST was developed with Python 3.9 and Pytorch 1.9.0. The specific package versions are provided in requirements.txt. Use the package to conduct marker gene identification analysis with Scanpy 1.8.1.
 
+
+![paper.tif](https://github.com/wang999-sdu/GMST/blob/master/pic/1.png)
+
 -----------------------------------------------------------------------
 Installation
 1. Prepare environment
@@ -96,4 +99,3 @@ if __name__ == "__main__":
 ```
 
 
-![paper.tif](./pic/1.tif)

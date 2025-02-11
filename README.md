@@ -20,9 +20,10 @@ Please install Pytorch that match your machine and environment first by followin
 Note that if you want to install Pytorch on a GPU machine, you need to install CUDA first, see guide here for installing CUDA https://developer.nvidia.com/cuda-downloads.
 
 3. Install GMST
-
+```
 git clone https://github.com/wang999-sdu/GMST.git
 cd GMST/
+```
 ----------------------------------------------------------------------------
 Datasets
 

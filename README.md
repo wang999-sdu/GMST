@@ -3,6 +3,7 @@
 GMST is a Python software package used for identifying spatial domains from spatial transcriptome (ST) data.
 
 GMST was developed with Python 3.9 and Pytorch 1.9.0. The specific package versions are provided in requirements.txt. Use the package to conduct marker gene identification analysis with Scanpy 1.8.1.
+
 -----------------------------------------------------------------------
 Installation
 1. Prepare environment
